@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Ean Hatfield, but you can call me Reese
+# Hi there! 👋 I'm Ean Hatfield
 
 I'm a junior level developer with a passion for creating engaging and efficient software solutions. Currently, I'm enhancing my skills at Wright State. When I'm not coding, you can find me exploring Ohio.
 
