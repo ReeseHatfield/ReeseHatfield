@@ -1,18 +1,18 @@
 # Hi there! 👋 I'm Ean Hatfield
 
-I'm a junior level developer with a passion for creating engaging and efficient software solutions. Currently, I'm enhancing my skills at Wright State. When I'm not coding, you can find me exploring Ohio.
+I'm a junior level developer with a passion for creating engaging and efficient software solutions. Currently, I'm enhancing my skills at Wright State.
 
 I have experience in a range of languages including Python, TypeScript, Swift, JavaScript, and Java. I'm always excited to learn more and grow as a developer.
 
 I'm open to new opportunities and love to collaborate on projects. If you think I could be a good fit for your team or if you want to collaborate, feel free to get in touch!
 
 ## What I'm working on:
-1. **DataDynamics** - Data analysis software designed to interface with CLOVER historical data. (Python)
-2. **OpenPOS** - A versatile and adaptable point-of-sale application. (TypeScript)
-3. **ThompsonTheVirtualPet** - A virtual pet game for iOS. (Swift)
-4. **REEDA-The-Discord-Bot** - A Discord bot with various functionalities. (JavaScript)
-5. **Knapsack-Problem-Solution** - An efficient solution to the classic knapsack problem. (Java)
-6. **ExpressJSServer** - Express JS Server for user authentication. (JavaScript)
+1. **[Coffee Origin Predictor](https://github.com/ReeseHatfield/Coffee-Origin-Predictor)** - A decision tree ML project to predict the origin of coffee
+2. **[DataDynamics](https://github.com/ReeseHatfield/DataDynamics)** - Data analysis software designed to interface with CLOVER historical data. (Python)
+3. **[OpenPOS](https://github.com/ReeseHatfield/OpenPOS)**- A versatile and adaptable point-of-sale application. (TypeScript)
+4. **[ThompsonTheVirtualPet](https://github.com/ReeseHatfield/ThompsonTheVirtualPet)** - A virtual pet game for iOS. (Swift)
+5. **[REEDA-The-Discord-Bot](https://github.com/ReeseHatfield/REEDA-The-Discord-Bot-)** - A Discord bot with various functionalities. (JavaScript)
+6. **[ExpressJSServer](https://github.com/ReeseHatfield/ExpressJSServer)** - Express JS Server for user authentication. (JavaScript)
 
 # Stats
 
