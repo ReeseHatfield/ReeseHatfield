@@ -13,7 +13,7 @@ I'm open to new opportunities and love to collaborate on projects. If you think 
 4. **[ThompsonTheVirtualPet](https://github.com/ReeseHatfield/ThompsonTheVirtualPet)** - A virtual pet game for iOS. (Swift)
 5. **[REEDA-The-Discord-Bot](https://github.com/ReeseHatfield/REEDA-The-Discord-Bot-)** - A Discord bot with various functionalities. (JavaScript)
 6. **[ExpressJSServer](https://github.com/ReeseHatfield/ExpressJSServer)** - Express JS Server for user authentication. (JavaScript)
-7. **[novaleeprince.art](https://github.com/ReeseHatfield/Portfolio)** - An art portfolio website
+7. **[novaleeprince.art](https://github.com/ReeseHatfield/Portfolio)** - An art portfolio website made with react (TypeScript)
 
 # Stats
 
