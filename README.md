@@ -7,12 +7,12 @@ I have experience in a range of languages including Python, TypeScript, Swift, J
 I'm open to new opportunities and love to collaborate on projects. If you think I could be a good fit for your team or if you want to collaborate, feel free to get in touch!
 
 ## What I'm working on:
-1. **[Coffee Origin Predictor](https://github.com/ReeseHatfield/Coffee-Origin-Predictor)** - A decision tree ML project to predict the origin of coffee
-2. **[DataDynamics](https://github.com/ReeseHatfield/DataDynamics)** - Data analysis software designed to interface with CLOVER historical data. (Python)
-3. **[OpenPOS](https://github.com/ReeseHatfield/OpenPOS)**- A versatile and adaptable point-of-sale application. (TypeScript)
-4. **[ThompsonTheVirtualPet](https://github.com/ReeseHatfield/ThompsonTheVirtualPet)** - A virtual pet game for iOS. (Swift)
-5. **[REEDA-The-Discord-Bot](https://github.com/ReeseHatfield/REEDA-The-Discord-Bot-)** - A Discord bot with various functionalities. (JavaScript)
-6. **[ExpressJSServer](https://github.com/ReeseHatfield/ExpressJSServer)** - Express JS Server for user authentication. (JavaScript)
+1. **[Cirrus](https://github.com/ReeseHatfield/Cirrus)** - A personal, self-hosted cloud. (Typescript)
+2. **[Coffee Origin Predictor](https://github.com/ReeseHatfield/Coffee-Origin-Predictor)** - A decision tree ML project to predict the origin of coffee
+3. **[DataDynamics](https://github.com/ReeseHatfield/DataDynamics)** - Data analysis software designed to interface with CLOVER historical data. (Python)
+4. **[OpenPOS](https://github.com/ReeseHatfield/OpenPOS)**- A versatile and adaptable point-of-sale application. (TypeScript)
+5. **[ThompsonTheVirtualPet](https://github.com/ReeseHatfield/ThompsonTheVirtualPet)** - A virtual pet game for iOS. (Swift)
+6. **[REEDA-The-Discord-Bot](https://github.com/ReeseHatfield/REEDA-The-Discord-Bot-)** - A Discord bot with various functionalities. (JavaScript)
 7. **[novaleeprince.art](https://github.com/ReeseHatfield/Portfolio)** - An art portfolio website made with react (TypeScript)
 
 # Stats
