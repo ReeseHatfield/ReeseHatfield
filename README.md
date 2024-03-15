@@ -2,7 +2,7 @@
 
 I'm a junior level developer with a passion for creating engaging and efficient software solutions. Currently, I'm enhancing my skills at Wright State.
 
-I have experience in a range of languages including Python, TypeScript, Swift, JavaScript, and Java. I'm always excited to learn more and grow as a developer.
+I have experience in a range of languages including TypeScript, Python, Swift, JavaScript, and Java. I'm always excited to learn more and grow as a developer.
 
 I'm open to new opportunities and love to collaborate on projects. If you think I could be a good fit for your team or if you want to collaborate, feel free to get in touch!
 
