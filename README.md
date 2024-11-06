@@ -1,4 +1,4 @@
-# Reese Hatfield
+# Reese Hatfield ☕
 
 I'm a masters student at Wright State University with a passion for creating engaging projects
 
