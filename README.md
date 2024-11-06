@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Ean Hatfield
+# Reese Hatfield
 
-I'm a junior level developer with a passion for creating engaging and efficient software solutions. Currently, I'm enhancing my skills at Wright State.
+I'm a masters student at Wright State University with a passion for creating engaging projects
 
-I have experience in a range of languages including TypeScript, Python, Swift, JavaScript, and Java. I'm always excited to learn more and grow as a developer.
+I have experience in a large variety of languages like Go, Java, Python, and Typescript. I'm always excited to learn more and grow as a developer.
 
 I'm open to new opportunities and love to collaborate on projects. If you think I could be a good fit for your team or if you want to collaborate, feel free to get in touch!
 
@@ -20,4 +20,4 @@ I'm open to new opportunities and love to collaborate on projects. If you think 
 [![](https://raw.githubusercontent.com/ReeseHatfield/ReeseHatfield/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ReeseHatfield/ReeseHatfield/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ReeseHatfield/ReeseHatfield/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ReeseHatfield/ReeseHatfield/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-Thank you for visiting my profile!
+Thank you for stopping by!
