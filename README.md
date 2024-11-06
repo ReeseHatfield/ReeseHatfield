@@ -8,12 +8,11 @@ I'm open to new opportunities and love to collaborate on projects. If you think 
 
 ## What I'm working on:
 1. **[Cirrus](https://github.com/ReeseHatfield/Cirrus)** - A personal, self-hosted cloud. (Typescript)
-2. **[Coffee Origin Predictor](https://github.com/ReeseHatfield/Coffee-Origin-Predictor)** - A decision tree ML project to predict the origin of coffee
-3. **[DataDynamics](https://github.com/ReeseHatfield/DataDynamics)** - Data analysis software designed to interface with CLOVER historical data. (Python)
-4. **[OpenPOS](https://github.com/ReeseHatfield/OpenPOS)**- A versatile and adaptable point-of-sale application. (TypeScript)
-5. **[ThompsonTheVirtualPet](https://github.com/ReeseHatfield/ThompsonTheVirtualPet)** - A virtual pet game for iOS. (Swift)
-6. **[REEDA-The-Discord-Bot](https://github.com/ReeseHatfield/REEDA-The-Discord-Bot-)** - A Discord bot with various functionalities. (JavaScript)
-7. **[novaleeprince.art](https://github.com/ReeseHatfield/Portfolio)** - An art portfolio website made with react (TypeScript)
+2. **[Moose](https://github.com/ReeseHatfield/moose)** - A data driven name-year estimator (Java)
+3. **[Martin Music](https://github.com/ReeseHatfield/martin-music)** - A album cover, gecko inspired profile picture creator. (Golang)
+4. **[WSU Geoguesser](https://github.com/AlexIsAUsername/WSU-geoguesser)** - A Geoguesser for Wright State univerisity (Typescript)
+5. **[WSU Geoguesser](https://github.com/AlexIsAUsername/god-bot)** - A small language model made with markov chains(Python)
+6. **[novaleeprince.art](https://github.com/ReeseHatfield/Portfolio)** - An art portfolio website made with react (TypeScript)
 
 # Stats
 
