@@ -11,7 +11,7 @@ I'm open to new opportunities and love to collaborate on projects. If you think 
 2. **[Moose](https://github.com/ReeseHatfield/moose)** - A data driven name-year estimator (Java)
 3. **[Martin Music](https://github.com/ReeseHatfield/martin-music)** - A album cover, gecko inspired profile picture creator. (Golang)
 4. **[WSU Geoguesser](https://github.com/AlexIsAUsername/WSU-geoguesser)** - A Geoguesser for Wright State univerisity (Typescript)
-5. **[WSU Geoguesser](https://github.com/AlexIsAUsername/god-bot)** - A small language model made with markov chains(Python)
+5. **[Markov-Bot](https://github.com/AlexIsAUsername/god-bot)** - A small language model made with markov chains(Python)
 6. **[novaleeprince.art](https://github.com/ReeseHatfield/Portfolio)** - An art portfolio website made with react (TypeScript)
 
 # Stats
