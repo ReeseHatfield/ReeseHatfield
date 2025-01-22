@@ -2,7 +2,7 @@
 
 I'm a masters student at Wright State University with a passion for creating engaging projects
 
-I have experience in a large variety of languages like Go, Java, Python, and Typescript. I'm always excited to learn more and grow as a developer.
+I have experience in a large variety of languages like Rust, Go, Java, Python, and Typescript. I'm always excited to learn more and grow as a developer.
 
 I'm open to new opportunities and love to collaborate on projects. If you think I could be a good fit for your team or if you want to collaborate, feel free to get in touch!
 
