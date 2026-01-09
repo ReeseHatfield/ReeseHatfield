@@ -1,6 +1,6 @@
 # Reese Hatfield ☕
 
-I'm a masters student at Wright State University with a passion for creating engaging projects
+I'm a Computer Science Educator at Wright State University with a passion for teaching
 
 I have experience in a large variety of languages like Rust, Go, Java, Python, and Typescript. I'm always excited to learn more and grow as a developer.
 
