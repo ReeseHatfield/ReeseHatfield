@@ -5,9 +5,10 @@ I'm a Computer Science Educator at Wright State University with a passion for te
 ## Projects I think are cool:
 1. **[KARMA](https://github.com/ReeseHatfield/karma)** - A knowledge graph based LLM fact checker (Rust)
 2. **[PineMap](https://github.com/ReeseHatfield/PineMap)** - A Modular Mapping System (Typescript)
-3. **[WSU Geoguesser](https://github.com/AlexIsAUsername/WSU-geoguesser)** - A Geoguesser for Wright State univerisity (Typescript)
-4. **[Moose](https://github.com/ReeseHatfield/moose)** - A data driven name-year estimator (Java)
-5. **[Martin Music](https://github.com/ReeseHatfield/martin-music)** - A album cover, gecko inspired profile picture creator. (Golang)
+3. **[PhiRecommendation]([https://github.com/ReeseHatfield/PineMap](https://github.com/ReeseHatfield/PhiDistributedRecommendations))** - Speech-to-text product recommendations (JS, Java, React)
+4. **[WSU Geoguesser](https://github.com/AlexIsAUsername/WSU-geoguesser)** - A Geoguesser for Wright State univerisity (Typescript)
+5. **[Moose](https://github.com/ReeseHatfield/moose)** - A data driven name-year estimator (Java)
+6. **[Martin Music](https://github.com/ReeseHatfield/martin-music)** - A album cover, gecko inspired profile picture creator. (Golang)
 
 
 # Stats
