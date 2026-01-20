@@ -1,6 +1,6 @@
 # Reese Hatfield ☕
 
-I'm a Computer Science Educator at Wright State University with a passion for teaching and open source
+A Computer Science Educator at Wright State University with a passion for teaching and open source
 
 ## Projects I think are cool:
 1. **[KARMA](https://github.com/ReeseHatfield/karma)** - A knowledge graph based LLM fact checker (Rust)
