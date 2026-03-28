@@ -3,12 +3,12 @@
 A Computer Science Educator at Wright State University with a passion for teaching and open source
 
 ## Projects I think are cool:
+1. **[OSEDA](https://github.com/oseda-dev/oseda)** - Open Source Education Association (Project lead) 
 1. **[KARMA](https://github.com/ReeseHatfield/karma)** - A knowledge graph based LLM fact checker (Rust)
-2. **[PineMap](https://github.com/ReeseHatfield/PineMap)** - A Modular Mapping System (Typescript)
-3. **[PhiRecommendation](https://github.com/ReeseHatfield/PhiDistributedRecommendations)** - Speech-to-text product recommendations (JS, Java, React)
-4. **[WSU Geoguesser](https://github.com/AlexIsAUsername/WSU-geoguesser)** - A Geoguesser for Wright State univerisity (Typescript)
-5. **[Moose](https://github.com/ReeseHatfield/moose)** - A data driven name-year estimator (Java)
-6. **[Martin Music](https://github.com/ReeseHatfield/martin-music)** - A album cover, gecko inspired profile picture creator. (Golang)
+1. **[PineMap](https://github.com/ReeseHatfield/PineMap)** - A Modular Mapping System (Typescript)
+1. **[PhiRecommendation](https://github.com/ReeseHatfield/PhiDistributedRecommendations)** - Speech-to-text product recommendations (JS, Java, React)
+1. **[WSU Geoguesser](https://github.com/AlexIsAUsername/WSU-geoguesser)** - A Geoguesser for Wright State univerisity (Typescript)
+1. **[Martin Music](https://github.com/ReeseHatfield/martin-music)** - A album cover, gecko inspired profile picture creator. (Golang)
 
 
 # Stats
