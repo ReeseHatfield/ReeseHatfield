@@ -1,4 +1,5 @@
 # Reese Hatfield ☕
+[![Oseda Author](https://img.shields.io/badge/Oseda%20Author-8A2BE2)](https://github.com/oseda-dev/oseda)
 
 A Computer Science Educator at Wright State University with a passion for teaching and open source
 
